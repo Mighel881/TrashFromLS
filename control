@@ -1,0 +1,10 @@
+Package: com.imkpatil.trashfromls
+Name: TrashFromLS
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: A Simple Tweak that allows deleting emails from LockScreen without asking for Password Confirmation.
+Maintainer: P2KDev <p2kdev@gmail.com>
+Author: P2KDev <p2kdev@gmail.com>
+Section: Tweaks
+Icon: file:///Library/Application Support/TrashFromLS/icon.png
